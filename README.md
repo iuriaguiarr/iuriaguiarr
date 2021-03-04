@@ -1,3 +1,6 @@
+<img align="right" width="400" height="400" src="https://images.vexels.com/media/users/3/152639/isolated/preview/506b575739e90613428cdb399175e2c8-space-astronaut-cartoon-by-vexels.png">
+
+
 # Welcome!
 
 ## Who am I?
@@ -11,10 +14,12 @@ ReactJS enthusiast and its ecosystem.
 ![Styled-components Logo](https://img.shields.io/twitter/url?color=purple&label=Styled-components&logo=styled-components&logoColor=DB7093&style=social&url=https://www.linkedin.com/in/iuriaguiarr/)
 
 ## Social Networks:
-![LinkedIn Logo](https://img.shields.io/twitter/url?color=purple&label=LinkedIn&logo=linkedin&logoColor=0A66C2&style=social&url=https://www.linkedin.com/in/iuriaguiarr/) 
-![Whatsapp Logo](https://img.shields.io/twitter/url?color=purple&label=Whatsapp&logo=whatsapp&logoColor=25D366&style=social&url=https://api.whatsapp.com/send?phone=5571989393033&text=Hi!%20I%20found%20you%20on%20Github.) 
-![Gmail Logo](https://img.shields.io/twitter/url?color=purple&label=Gmail&logo=gmail&logoColor=EA4335&style=social&url=mailto:iuri.aguiarr@gmail.com?subject=Github%20Profile%20Viewer.&body=Hi!%20I%20found%20you%20on%20Github.) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuriaguiarr/)](https://www.linkedin.com/in/iuriaguiarr/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55+071+989393033&text=Hello!)](https://api.whatsapp.com/send?phone=55+071+989393033&text=Hello!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iuri.aguiarr@gmail.com)](mailto:iuri.aguiarr@gmail.com)
 
 ## More info:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iuriaguiarr&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+- Thanks for visiting. 
   
