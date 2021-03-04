@@ -1,7 +1,20 @@
-# Iuri Aguiar
+# Welcome!
 
-![LinkedIn Logo](https://img.shields.io/twitter/url?color=purple&label=LinkedIn&logo=linkedin&logoColor=black&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fiuriaguiarr%2F) 
+## Who am I?
+My name is Iuri Aguiar, I'm 17 years old.
+I am a student of Software Engineering and Technician in Systems Development
+ReactJS enthusiast and its ecosystem.
 
-Student of Software Engineering, front-end developer, enthusiastic about Javascript and all the technologies related to it, such as: ReactJS, React Native, Redux, NodeJS among others. Very communicative, proactive, creative and work very well in a team. Academic experience in developing web, desktop and mobile systems using ReactJS, React Native, Sass and Redux, interacting with REST APIs developed with NodeJS and Express, storing information in databases such as: Realtime Firebase, MySQL and PostgreSQL and performing tests through Jest, JMeter and Selenium.
+## Favorite Techs:
+![ReactJS Logo](https://img.shields.io/twitter/url?color=purple&label=ReactJS&logo=react&logoColor=61DAFB&style=social&url=https://www.linkedin.com/in/iuriaguiarr/)
+![Next,JS Logo](https://img.shields.io/twitter/url?color=purple&label=Next.JS&logo=next.js&logoColor=black&style=social&url=https://www.linkedin.com/in/iuriaguiarr/)
+![Styled-components Logo](https://img.shields.io/twitter/url?color=purple&label=Styled-components&logo=styled-components&logoColor=DB7093&style=social&url=https://www.linkedin.com/in/iuriaguiarr/)
 
-"If it is difficult, I do it now, if it is impossible, give me 5 minutes to prepare."
+## Social Networks:
+![LinkedIn Logo](https://img.shields.io/twitter/url?color=purple&label=LinkedIn&logo=linkedin&logoColor=0A66C2&style=social&url=https://www.linkedin.com/in/iuriaguiarr/) 
+![Whatsapp Logo](https://img.shields.io/twitter/url?color=purple&label=Whatsapp&logo=whatsapp&logoColor=25D366&style=social&url=https://api.whatsapp.com/send?phone=5571989393033&text=Hi!%20I%20found%20you%20on%20Github.) 
+![Gmail Logo](https://img.shields.io/twitter/url?color=purple&label=Gmail&logo=gmail&logoColor=EA4335&style=social&url=mailto:iuri.aguiarr@gmail.com?subject=Github%20Profile%20Viewer.&body=Hi!%20I%20found%20you%20on%20Github.) 
+
+## More info:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iuriaguiarr&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
