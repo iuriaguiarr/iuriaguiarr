@@ -4,9 +4,9 @@
 # Welcome!
 
 ## Who am I?
-My name is Iuri Aguiar, I'm 17 years old.
-I am a student of Software Engineering and Technician in Systems Development
-ReactJS enthusiast and its ecosystem.
+- My name is Iuri Aguiar, I'm 17 years old.
+- I am a student of Software Engineering and Technician in Systems Development.
+- ReactJS enthusiast and its ecosystem.
 
 ## Favorite Techs:
 ![ReactJS Logo](https://img.shields.io/twitter/url?color=purple&label=ReactJS&logo=react&logoColor=61DAFB&style=social&url=https://www.linkedin.com/in/iuriaguiarr/)
