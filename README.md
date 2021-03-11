@@ -18,6 +18,23 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55+071+989393033&text=Hello!)](https://api.whatsapp.com/send?phone=55+071+989393033&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iuri.aguiarr@gmail.com)](mailto:iuri.aguiarr@gmail.com)
 
+## Courses:
+- Administration - Instituto Sagrado Coração de Jesus - 2019-2020.
+- IT Projects and Systems - Fundação Bradesco - February / 2020.
+- Next Level Week 4.0 - Rocketseat - February / 2021.
+- Introduction to Git and Github - Digital Innovation One Inc. - December / 2020.
+- Internet programming with Javascript - Digital Innovation One Inc. - December / 2020.
+- Essential Programming Logic - Digital Innovation One Inc. - December / 2020.
+- Programming Logic - SENAI Bahia - December / 2020.
+- Introduction to ReactJS - Digital Innovation One Inc. - December / 2020.
+- Introduction to Node with Express - Digital Innovation One Inc. - December / 2020.
+- Introduction to creating websites with HTML5 and CSS3 - Digital Innovation One Inc. - December / 2020.
+- Fundamentals of Systems Architecture - Digital Innovation One Inc. - December / 2020.
+- Internet application development with ReactJS - Digital Innovation One Inc. - December / 2020.
+- Introduction to Node with Express - Digital Innovation One Inc. - December / 2020.
+- Week Omnistack 11.0 - Rocketseat - March / 2020.
+- React Conference Brasil - React Conf Brasil - November / 2020.
+
 ## More info:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iuriaguiarr&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
