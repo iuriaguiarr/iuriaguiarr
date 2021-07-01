@@ -4,7 +4,7 @@
 # Welcome!
 
 ## Who am I?
-- My name is Iuri Aguiar, I'm 17 years old.
+- My name is Iuri Aguiar, I'm 18 years old.
 - I am a student of Software Engineering and Technician in Systems Development.
 - React enthusiast and its ecosystem.
 
