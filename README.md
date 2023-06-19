@@ -7,8 +7,5 @@ Atuação como DevOps em Cloud AWS e em progresso para a certificação Praticti
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55+071+989393033&text=Hello!)](https://api.whatsapp.com/send?phone=55+071+989393033&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iuri.aguiarr@gmail.com)](mailto:iuri.aguiarr@gmail.com)
 
-## Mais Informações:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iuriaguiarr&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 - Obrigado pela visita. 
   
