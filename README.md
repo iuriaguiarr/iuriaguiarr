@@ -3,11 +3,11 @@ diferentes projetos de software (Financeiro, Comunicação, Segurança da inform
 Certificado AWS Practitioner, realizando projetos de desenvolvimento, infraestrutura, modelagem 
 de dados e arquitetura.
 
-● Experiência utilizando linguagem de programação: Typescript e Python;
-● Experiência com frameworks: Nestjs, Express, React e Nextjs;
-● Experiência em Cloud: AWS e Azure; 
-● Banco de dados: MySQL, PostgreSQL, MongoDB, OracleDB e DynamoDB;
-● Outras experiências: DevOps, CI/CD, Docker, Jenkins e Nginx.
+- Experiência utilizando linguagem de programação: Typescript e Python;
+- Experiência com frameworks: Nestjs, Express, React e Nextjs;
+- Experiência em Cloud: AWS e Azure;
+- Banco de dados: MySQL, PostgreSQL, MongoDB, OracleDB e DynamoDB;
+- Outras experiências: DevOps, CI/CD, Docker, Jenkins e Nginx.
 
 ## Contato:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuriaguiarr/)](https://www.linkedin.com/in/iuriaguiarr/)
