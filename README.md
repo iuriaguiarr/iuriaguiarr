@@ -1,6 +1,9 @@
-Engenheiro de software com vasta experiência em Typescript e tecnologias como React, NestJS e Next.js. Habilidades sólidas em bancos de dados relacionais e não relacionais, como MySQL, PostgreSQL, REDIS, entre outros.
+Engenheiro de Software com experiência profissional de mais de 4 anos. Atuação fullstack em diferentes projetos de software (Financeiro, Comunicação, Segurança da informação e Saúde). Certificado AWS Practitioner, realizando projetos de desenvolvimento, infraestrutura, modelagem de dados e arquitetura.
 
-Atuação como DevOps em Cloud AWS e ambientes de servidores on-premise Linux, construindo sistemas de CI/CD com Jenkins, Docker, Portainer e Nginx. Buscando ampliar a carreira para cargos de liderança em desenvolvimento de software e gerenciamento de projetos.
+- Linguagens de Programação: Typescript e Python;
+- Frameworks: Nestjs, Express, React e Nextjs;
+- Cloud: AWS e Azure; 
+- Bancos de Dados: MySQL, PostgreSQL, MongoDB, OracleDB e DynamoDB.
 
 ## Contato:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuriaguiarr/)](https://www.linkedin.com/in/iuriaguiarr/)
